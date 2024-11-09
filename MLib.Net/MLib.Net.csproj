@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>MLib</Title>
+        <Authors>mxritzdev</Authors>
+        <Description>A library with reusable code for my projects</Description>
+        <Copyright>mxritzdev</Copyright>
+        <PackageProjectUrl>https://github.com/mxritzdev/MLib</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/mxritzdev/MLib</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/mxritzdev/MLib/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageReadmeFile>https://github.com/mxritzdev/MLib/blob/master/README.md</PackageReadmeFile>
+        <RepositoryType>git</RepositoryType>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.0.2</Version>
+        <RootNamespace>MLib</RootNamespace>
+    </PropertyGroup>
+
+</Project>
