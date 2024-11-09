@@ -21,4 +21,12 @@ public static class FileHelper
             File.WriteAllText(path, initialContent);
 
     }
+
+    public static void EnsureDirectoryExists(string path)
+    {
+        path = Path.GetFullPath(path);
+        
+        Directory.CreateDirectory(path);
+    }
+    
 }
