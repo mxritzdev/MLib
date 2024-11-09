@@ -11,8 +11,7 @@
         <Copyright>mxritzdev</Copyright>
         <PackageProjectUrl>https://github.com/mxritzdev/MLib</PackageProjectUrl>
         <RepositoryUrl>https://github.com/mxritzdev/MLib</RepositoryUrl>
-        <PackageLicenseUrl>https://github.com/mxritzdev/MLib/blob/master/LICENSE</PackageLicenseUrl>
-        <PackageReadmeFile>https://github.com/mxritzdev/MLib/blob/master/README.md</PackageReadmeFile>
+        <PackageLicense>https://github.com/mxritzdev/MLib/blob/master/LICENSE</PackageLicense>
         <RepositoryType>git</RepositoryType>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Version>0.0.2</Version>
